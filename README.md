@@ -7,5 +7,5 @@ You can find the most recent version of this guide [here](https://github.com/hal
 
 An implemantation of http://www.asciipaint.com/ using Elm and style-elements for the layout.
 
-- [http://elm-lang.org/] (Elm Lang)
-- [https://github.com/mdgriffith/style-elements] (The Style Elements Library!)
+- (Elm Lang)[http://elm-lang.org/] 
+- (The Style Elements Library!)[https://github.com/mdgriffith/style-elements]
